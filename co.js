@@ -1,6 +1,6 @@
-// File : co.js (v10.0)
+// File : co.js (v5.0)
 // Function : Accurate Placement via Browser Constraints
-// (c) Copyright 2014 SGNLS.net
+// (c) Copyright 2015 SGNLS.net
 
 // constraints
 
@@ -70,4 +70,3 @@ function gC(){
 function sR(){
 	window.alert("Real Estate is X*Y (" + gW + "x" + gH + ") = " + gS + " pixels.");
 }
-
