@@ -1,3 +1,6 @@
+# gchart.js v1.7
+# SGNLS.net 2013
+
 google.setOnLoadCallback(drawChartA);
 function drawChartA() {
 	var dataA = google.visualization.arrayToDataTable([
